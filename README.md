@@ -4,7 +4,7 @@ The project was made for the purposes of the university task. It was created usi
 
 ## Preview
 
-![preview](https://user-images.githubusercontent.com/116505961/209407674-f3939506-4eb1-4e21-baa0-5cbce306ee6f.JPG)
+![preview](https://user-images.githubusercontent.com/116505961/209412046-397f07f1-6658-48be-bf4e-fc5d53c5c5e0.JPG)
 
 ## Features:
 
