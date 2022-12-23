@@ -1,6 +1,6 @@
 # HiddenInfo
 
-Design of an application for encoding &amp; decoding hidden information in bitmaps. The application was created with the use of C# programming language and .NET environment.
+The project was made for the purposes of the university task. It was created using the C# language and the ".NET" environment. The application allows you to encode and decode secret messages in graphic files called “bitmaps”.
 
 ## Preview
 
@@ -8,13 +8,9 @@ Design of an application for encoding &amp; decoding hidden information in bitma
 
 ## Features:
 
--	Classic user interface (real device),
--	LCD that allows you to view the history of entered expressions,
--	Complex number calculator (subprogram),
--	Unit converter (subprogram),
--	Numeral systems calculator (BIN, OCT, DEC, HEX),
--	Operation only with the on-screen keyboard,
--	Memory functions (MS, MR, MC, M+, M-),
+- Secret message can be entered via a text file or an internal text editor,
+- Active backlight of the buttons, which indicates the correct sequence of operations,
+- The encoded and decoded message can be saved using the ShowDialog functionality,
 
 ## Tech Stack:
 
