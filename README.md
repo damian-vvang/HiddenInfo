@@ -1,6 +1,6 @@
 # HiddenInfo
 
-The project was made for the purposes of the university task. It was created using the C# language and the ".NET" environment. The application allows you to encrypt and decrypt secret messages in graphic files called “bitmaps”.
+The project was made for the purposes of the university task. It was created using the C# language and the ".NET" environment. The application allows you to encode and decode secret messages in graphic files called “bitmaps”.
 
 ## Preview
 
