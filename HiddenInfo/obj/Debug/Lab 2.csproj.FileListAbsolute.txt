@@ -1,0 +1,64 @@
+C:\Users\Damian\source\repos\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+C:\Users\Damian\source\repos\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+C:\Users\Damian\source\repos\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+C:\Users\Damian\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.csprojAssemblyReference.cache
+C:\Users\Damian\source\repos\Lab 2\Lab 2\obj\Debug\Lab_2.Menu.resources
+C:\Users\Damian\source\repos\Lab 2\Lab 2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\Damian\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.GenerateResource.cache
+C:\Users\Damian\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\Damian\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+C:\Users\Damian\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
+E:\Studia\V semestr\Ochrona danych w sys. i sieciach komp\Laboratorium\Lab #2\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+E:\Studia\V semestr\Ochrona danych w sys. i sieciach komp\Laboratorium\Lab #2\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+E:\Studia\V semestr\Ochrona danych w sys. i sieciach komp\Laboratorium\Lab #2\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+E:\Studia\V semestr\Ochrona danych w sys. i sieciach komp\Laboratorium\Lab #2\Lab 2\Lab 2\obj\Debug\Lab 2.csprojAssemblyReference.cache
+E:\Studia\V semestr\Ochrona danych w sys. i sieciach komp\Laboratorium\Lab #2\Lab 2\Lab 2\obj\Debug\Lab_2.Main.resources
+E:\Studia\V semestr\Ochrona danych w sys. i sieciach komp\Laboratorium\Lab #2\Lab 2\Lab 2\obj\Debug\Lab_2.Menu.resources
+E:\Studia\V semestr\Ochrona danych w sys. i sieciach komp\Laboratorium\Lab #2\Lab 2\Lab 2\obj\Debug\Lab_2.Properties.Resources.resources
+E:\Studia\V semestr\Ochrona danych w sys. i sieciach komp\Laboratorium\Lab #2\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.GenerateResource.cache
+E:\Studia\V semestr\Ochrona danych w sys. i sieciach komp\Laboratorium\Lab #2\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+E:\Studia\V semestr\Ochrona danych w sys. i sieciach komp\Laboratorium\Lab #2\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+E:\Studia\V semestr\Ochrona danych w sys. i sieciach komp\Laboratorium\Lab #2\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
+E:\Studia\V semestr\Ochrona danych w sys. i sieciach komp\Laboratorium\Lab #2eco\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+E:\Studia\V semestr\Ochrona danych w sys. i sieciach komp\Laboratorium\Lab #2eco\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+E:\Studia\V semestr\Ochrona danych w sys. i sieciach komp\Laboratorium\Lab #2eco\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+E:\Studia\V semestr\Ochrona danych w sys. i sieciach komp\Laboratorium\Lab #2eco\Lab 2\Lab 2\obj\Debug\Lab 2.csprojAssemblyReference.cache
+E:\Studia\V semestr\Ochrona danych w sys. i sieciach komp\Laboratorium\Lab #2eco\Lab 2\Lab 2\obj\Debug\Lab_2.Main.resources
+E:\Studia\V semestr\Ochrona danych w sys. i sieciach komp\Laboratorium\Lab #2eco\Lab 2\Lab 2\obj\Debug\Lab_2.Menu.resources
+E:\Studia\V semestr\Ochrona danych w sys. i sieciach komp\Laboratorium\Lab #2eco\Lab 2\Lab 2\obj\Debug\Lab_2.Properties.Resources.resources
+E:\Studia\V semestr\Ochrona danych w sys. i sieciach komp\Laboratorium\Lab #2eco\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.GenerateResource.cache
+E:\Studia\V semestr\Ochrona danych w sys. i sieciach komp\Laboratorium\Lab #2eco\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+E:\Studia\V semestr\Ochrona danych w sys. i sieciach komp\Laboratorium\Lab #2eco\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+E:\Studia\V semestr\Ochrona danych w sys. i sieciach komp\Laboratorium\Lab #2eco\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
+C:\Users\Damian\Desktop\Lab #2\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+C:\Users\Damian\Desktop\Lab #2\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+C:\Users\Damian\Desktop\Lab #2\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+C:\Users\Damian\Desktop\Lab #2\Lab 2\Lab 2\obj\Debug\Lab 2.csprojAssemblyReference.cache
+C:\Users\Damian\Desktop\Lab #2\Lab 2\Lab 2\obj\Debug\Lab_2.Main.resources
+C:\Users\Damian\Desktop\Lab #2\Lab 2\Lab 2\obj\Debug\Lab_2.Menu.resources
+C:\Users\Damian\Desktop\Lab #2\Lab 2\Lab 2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\Damian\Desktop\Lab #2\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\Lab #2\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Lab #2\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+C:\Users\Damian\Desktop\Lab #2\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
+C:\Users\homer\Desktop\Lab 2\Lab 2\obj\Debug\Lab 2.csprojAssemblyReference.cache
+C:\Users\homer\Desktop\Lab 2\Lab 2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\homer\Desktop\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.GenerateResource.cache
+C:\Users\homer\Desktop\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\homer\Desktop\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+C:\Users\homer\Desktop\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
+C:\Users\homer\Desktop\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+C:\Users\homer\Desktop\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+C:\Users\homer\Desktop\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+C:\Users\homer\Desktop\Lab 2\Lab 2\obj\Debug\Lab_2.Decryption.resources
+C:\Users\homer\Desktop\Lab 2\Lab 2\obj\Debug\Lab_2.Encryption.resources
+C:\Users\homer\Desktop\HiddenInfo - Image Encryption & Decryption\Lab 2\obj\Debug\Lab 2.csprojAssemblyReference.cache
+C:\Users\homer\Desktop\HiddenInfo - Image Encryption & Decryption\Lab 2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\homer\Desktop\HiddenInfo - Image Encryption & Decryption\Lab 2\obj\Debug\Lab 2.csproj.GenerateResource.cache
+C:\Users\homer\Desktop\HiddenInfo - Image Encryption & Decryption\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\homer\Desktop\HiddenInfo - Image Encryption & Decryption\Lab 2\obj\Debug\Lab 2.exe
+C:\Users\homer\Desktop\HiddenInfo - Image Encryption & Decryption\Lab 2\obj\Debug\Lab 2.pdb
+C:\Users\homer\Desktop\HiddenInfo - Image Encryption & Decryption\Lab 2\bin\Debug\Lab 2.exe.config
+C:\Users\homer\Desktop\HiddenInfo - Image Encryption & Decryption\Lab 2\bin\Debug\Lab 2.exe
+C:\Users\homer\Desktop\HiddenInfo - Image Encryption & Decryption\Lab 2\bin\Debug\Lab 2.pdb
+C:\Users\homer\Desktop\HiddenInfo - Image Encryption & Decryption\Lab 2\obj\Debug\Lab_2.Main.resources
