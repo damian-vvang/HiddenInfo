@@ -1,6 +1,6 @@
 # HiddenInfo
 
-The project was made for the purposes of the university task. It was created using the C# language and the ".NET" environment. The application allows you to encode and decode secret messages in graphic files called “bitmaps”.
+The project was made for a university task. It was created using the C# language and the ".NET" environment. The application allows you to encode and decode secret messages in graphic files called "bitmaps."
 
 ## Preview
 
@@ -8,8 +8,8 @@ The project was made for the purposes of the university task. It was created usi
 
 ## Features:
 
-- Secret message can be entered via a text file or an internal text editor,
-- Active backlight of the buttons, which indicates the correct sequence of operations,
+- Secret messages can be entered via a text file or an internal text editor,
+- The active backlight of the buttons, which indicates the correct sequence of operations,
 - The encoded and decoded message can be saved using the ShowDialog functionality,
 
 ## Installation:
